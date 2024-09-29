@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm currently on a journey of exploration and disc
 - 🔭 Current Focus: Delving into different aspects of technology and its applications
 - 🎓 Education: Dedicated learner at SLIIT, Year 2
 - 🌱 Learning: Continuously exploring new skills and knowledge to shape my path
-- 💬 Ask me about: C, C++, Java, JSP, Servlets, MySQL, HTML, CSS, JavaScript, and MVC architecture
+- 💬 Ask me about: C, C++, Java, Kotlin, R, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript, MERN Stack and MVC architecture
 
 ## 🌐 Connect with Me
 
@@ -15,8 +15,9 @@ Welcome to my GitHub profile! I'm currently on a journey of exploration and disc
 
 ## 💼 Experience and Contributions
 
-- Online Event Management System: A comprehensive solution for managing online events using Java, JSP, Servlets, and MySQL.
-- Online Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
+- Event Management System: A comprehensive solution for managing online events using Java, JSP, Servlets, and MySQL.
+- Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
+- Coconut Cultivation and Operations Management System: A comprehensive web based application utilizing the MERN Stack designed to manage all aspects of coconut cultivation.
   
 I'm eager to contribute to open-source projects and collaborate to innovate and create impactful solutions. Let's connect and explore opportunities to build something amazing together!
 
