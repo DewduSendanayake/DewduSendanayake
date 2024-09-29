@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm currently on a journey of exploration and disc
 - Event Management System: A comprehensive solution for managing online events using Java, JSP, Servlets, and MySQL.
 - Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
 - Coconut Cultivation and Operations Management System: A comprehensive web based application utilizing the MERN Stack designed to manage all aspects of coconut cultivation.
+- Aurora Mobile App: A Kotlin-based mobile app that boosts productivity by managing tasks, utilizing a timer, and featuring a convenient home widget.
+- Lumos Mobile App: A Kotlin-based mobile app that enhances dream understanding and sleep quality through dream journaling and lucid dreaming training.
   
 I'm eager to contribute to open-source projects and collaborate to innovate and create impactful solutions. Let's connect and explore opportunities to build something amazing together!
 
