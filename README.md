@@ -12,6 +12,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 ## 🌐 Connect with Me
 
 - LinkedIn: linkedin.com/in/dewdusendanayake
+- Email: hdsendanayake01@gmail.com
 
 ## 💼 Experience and Contributions
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
