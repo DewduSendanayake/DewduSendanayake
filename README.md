@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dewdu+Sendanayake+%F0%9F%8C%B8;Nice+to+meet+you%E2%98%BA%EF%B8%8F;Hope+you+have+a+great+day+ahead!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dewdu+Sendanayake%F0%9F%8C%B8;Nice+to+meet+you%E2%98%BA%EF%B8%8F;Hope+you+have+a+great+day+ahead!+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,15 +11,15 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
 
-- 🔭 Current Focus: Advancing my expertise in machine learning, big data systems, and AI-powered applications. Passionate about using data to drive innovation and create meaningful impact in real-world settings.
+- Current Focus 🔭: Advancing my expertise in machine learning, big data systems, and AI-powered applications. Passionate about using data to drive innovation and create meaningful impact in real-world settings.
   
-- 🎓 Education: 3rd year undergraduate consistently on the Dean's List, committed to academic excellence and lifelong learning.
+- Education 🎓: 3rd year undergraduate consistently on the Dean's List, committed to academic excellence and lifelong learning.
   
-- 🌱 Learning: Continuously upskilling in areas like cloud computing, data engineering, optimization methods, and ethical AI to stay ahead in a rapidly evolving tech landscape.
+- Learning 🌱: Continuously upskilling in areas like cloud computing, data engineering, optimization methods, and ethical AI to stay ahead in a rapidly evolving tech landscape.
   
-- 💬 Ask me about:  Python, R, SQL, Power BI, Tableau, Cloud (AWS/Azure), Jupyter Notebook, TensorFlow, Pandas, Matplotlib, NumPy, Keras, Scikit-Learn, Seaborn, Hive, Kafka, Flask, SSAS/ SSMS/ SSIS, Git/ GitHub, Excel, Java, JavaScript, C, C++, MERN Stack, Natural Language Processing, Hadoop, Spark, MySQL, PL/SQL, Data cleaning/preprocessing, Predictive modeling, ETL, Big Data Analysis, Oracle DB, SQL*Plus, SQLite, Data Structures & Algorithms, Data Visualization and Query Preprocessing
+- Ask me about 💬:  Python, R, SQL, Power BI, Tableau, Cloud (AWS/Azure), Jupyter Notebook, TensorFlow, Pandas, Matplotlib, NumPy, Keras, Scikit-Learn, Seaborn, Hive, Kafka, Flask, SSAS/ SSMS/ SSIS, Git/ GitHub, Excel, Java, JavaScript, C, C++, MERN Stack, Natural Language Processing, Hadoop, Spark, MySQL, PL/SQL, Data cleaning/preprocessing, Predictive modeling, ETL, Big Data Analysis, Oracle DB, SQL*Plus, SQLite, Data Structures & Algorithms, Data Visualization and Query Preprocessing
   
-- 📑 Beyond Tech: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
+- Beyond Tech 🧙🏻‍♀️: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  Experience and Contributions 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
@@ -50,7 +50,6 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DewduSendanayake&show=prs,prs_merged&hide=issues&show_icons=true&theme=radical" alt="Dewdu's GitHub stats" />
 </p>
-
   
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="26" />  Let's Connect!
 
@@ -60,3 +59,13 @@ Thanks for stopping by! Feel free to explore my repositories, check out my proje
 - Email: hdsendanayake01@gmail.com
 
 Let's build the future with data! ✨
+
+<p align="center">
+  <img src="./assets/dewdu-transparent.png" width="250" alt="Floating Dewdu Iconicness" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=2000"/>
+</p>
+
