@@ -14,11 +14,6 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
   
 - 📑 Beyond Tech: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
-## 🌐 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/dewdusendanayake
-- Email: hdsendanayake01@gmail.com
-
 ## 💼 Experience and Contributions
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
   
@@ -44,8 +39,11 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
   
 - Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
   
-## 💬 Let's Connect!
+## 🌐 Let's Connect!
 
 Thanks for stopping by! Feel free to explore my repositories, check out my projects, or connect with me on LinkedIn to collaborate on innovative data science solutions.
+
+- LinkedIn: www.linkedin.com/in/dewdusendanayake
+- Email: hdsendanayake01@gmail.com
 
 Let's build the future with data! ✨
