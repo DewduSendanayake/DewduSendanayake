@@ -16,7 +16,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 ## 🌐 Connect with Me
 
-- LinkedIn: linkedin.com/in/dewdusendanayake
+- LinkedIn: www.linkedin.com/in/dewdusendanayake
 - Email: hdsendanayake01@gmail.com
 
 ## 💼 Experience and Contributions
