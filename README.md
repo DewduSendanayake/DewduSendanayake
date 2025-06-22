@@ -1,5 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Dewdu+Sendanayake+👋;Nice+to+meet+you😊)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dewdu+Sendanayake+%F0%9F%8C%B8;Nice+to+meet+you%E2%98%BA%EF%B8%8F;Hope+you+have+a+great+day+ahead!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
+
 Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.76. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 
 ## 🚀 About Me
 
@@ -37,6 +45,12 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Event Management System: A comprehensive solution for managing online events using Java, JSP, Servlets, and MySQL.
   
 - Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DewduSendanayake&show=prs,prs_merged&hide=issues&show_icons=true&theme=radical" alt="Dewdu's GitHub stats" />
+</p>
+
   
 ## 🌐 Let's Connect!
 
