@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Dewdu+Sendanayake+👋;Nice+to+meet+you😊)](https://git.io/typing-svg)
-
 Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.76. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
 
 ## 🚀 About Me
