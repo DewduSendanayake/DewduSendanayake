@@ -67,4 +67,3 @@ Let's build the future with data! ✨
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=2000"/>
 </p>
-
