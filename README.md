@@ -9,7 +9,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
 
 - 🔭 Current Focus: Advancing my expertise in machine learning, big data systems, and AI-powered applications. Passionate about using data to drive innovation and create meaningful impact in real-world settings.
   
@@ -21,7 +21,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
   
 - 📑 Beyond Tech: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
-## 💼 Experience and Contributions
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Experience and Contributions 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
   
 - Handwritten Digit Recognition: Developed a MNIST pipeline (60 k train/10 k test), boosting accuracy from ~92% (logistic regression) to 99.2% (Convolutional Neural Network- CNN with augmentation & dropout), deployed via Flask.
@@ -52,7 +52,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 </p>
 
   
-## 🌐 Let's Connect!
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Let's Connect!
 
 Thanks for stopping by! Feel free to explore my repositories, check out my projects, or connect with me on LinkedIn to collaborate on innovative data science solutions.
 
