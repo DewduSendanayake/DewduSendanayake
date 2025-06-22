@@ -6,10 +6,7 @@
 
 Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.76. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="RavenclawGirl.png" width="250" alt="Ravenclaw FTW" />
-</p>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
