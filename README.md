@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dewdu+Sendanayake%F0%9F%8C%B8;Nice+to+meet+you%E2%98%BA%EF%B8%8F;Hope+you+have+a+great+day+ahead!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dewdu+Sendanayake%F0%9F%8C%B8;Nice+to+meet+you%E2%98%BA%EF%B8%8F;Hope+you+have+a+great+day+ahead!%F0%9F%AA%84" alt="Typing SVG" />
   </a>
 </p>
 
@@ -61,9 +61,8 @@ Thanks for stopping by! Feel free to explore my repositories, check out my proje
 Let's build the future with data! ✨
 
 <p align="center">
-  <img src="RavenclawGirl.png" width="180" alt="Ravenclaw FTW" />
+  <img src="RavenclawGirl.png" width="150" alt="Ravenclaw FTW" />
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=2000"/>
