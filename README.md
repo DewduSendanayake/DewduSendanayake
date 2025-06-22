@@ -1,31 +1,34 @@
 # 👋 Hi, I’m Dewdu Sendanayake!
 
-Welcome to my GitHub profile! I'm currently on a journey of exploration and discovery with a passion for crafting innovative solutions. I'm currently an undergraduate at SLIIT, Malabe. Here, you'll find a collection of my projects, reflecting my curiosity and experimentation in various domains including web development, Java programming, and beyond.
+Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.76. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
 - 🔭 Current Focus: Delving into different aspects of technology and its applications
-- 🎓 Education: Dedicated learner at SLIIT, Year 2
+- 🎓 Education: Dedicated learner at SLIIT, Year 3
 - 🌱 Learning: Continuously exploring new skills and knowledge to shape my path
-- 💬 Ask me about: C, C++, Java, Kotlin, R, Python, JSP, Servlets, MySQL, HTML, CSS, JavaScript, MERN Stack and MVC architecture
+- 💬 Ask me about:  Python, R, SQL, Power BI, Tableau, Cloud (AWS/Azure), Jupyter Notebook, TensorFlow, Pandas, Matplotlib, NumPy, Keras, Scikit-Learn, Seaborn, Hive, Kafka, Flask, SSAS/ SSMS/ SSIS, Git/ GitHub, Excel, Java, JavaScript, C, C++, MERN Stack, Natural Language Processing, Hadoop, Spark, MySQL, PL/SQL, Data cleaning/preprocessing, Predictive modeling, ETL, Big Data Analysis, Oracle DB, SQL*Plus, SQLite, Data Structures & Algorithms, Data Visualization and Query Preprocessing 
 
 ## 🌐 Connect with Me
 
 - LinkedIn: linkedin.com/in/dewdusendanayake
 
 ## 💼 Experience and Contributions
-
+- Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
+- Handwritten Digit Recognition: Developed a MNIST pipeline (60 k train/10 k test), boosting accuracy from ~92% (logistic regression) to 99.2% (Convolutional Neural Network- CNN with augmentation & dropout), deployed via Flask.
+- Retail Insight 360: ETL to Analytics Pipeline and Power BI Reports: Engineered an SSIS-driven ETL data pipelines for 96K+ monthly records, ensured 99.9% accuracy with SCD 2, and delivered SSAS/Power BI solutions that sped query performance by 40%.
+- Customer Churn Prediction: Built Streamlit web app using XGBoost (81.8% AUC) and Logistic Regression (84.0% AUC), with live inference, scaled inputs over a 7,000+ telecom customer churn dataset
+- Titanic Exploratory Data Analysis: EDA using Python (pandas, seaborn, matplotlib) in Jupyter Notebook with 100% coverage
+- Empirical Analysis of Income and Social Media Engagement: Analyzed a 5K-user dataset with correlation and regression.
+- Coconut Cultivation and Operations System: MERN-based platform for real-time ops, pest detection and analytics.
+- Sleep and Dream Analysis App: Kotlin app using psychology and analytics to enhance sleep and lucid dreaming.
+- Culinary Skill Sharing & Learning Platform: Spring Boot/React.js web app for learning, progress tracking and recipe sharing.
+- Aurora Mobile App: A Kotlin-based mobile app that boosts productivity by managing tasks, utilizing a timer, and featuring a convenient home widget.
 - Event Management System: A comprehensive solution for managing online events using Java, JSP, Servlets, and MySQL.
 - Tourism and Travel Management System: A web-based application utilizing HTML, CSS, JavaScript, and SQL for seamless travel planning.
-- Coconut Cultivation and Operations Management System: A comprehensive web based application utilizing the MERN Stack designed to manage all aspects of coconut cultivation.
-- Aurora Mobile App: A Kotlin-based mobile app that boosts productivity by managing tasks, utilizing a timer, and featuring a convenient home widget.
-- Lumos Mobile App: A Kotlin-based mobile app that enhances dream understanding and sleep quality through dream journaling and lucid dreaming training.
   
-I'm eager to contribute to open-source projects and collaborate to innovate and create impactful solutions. Let's connect and explore opportunities to build something amazing together!
+## 💬 Let's Connect!
 
+Thanks for stopping by! Feel free to explore my repositories, check out my projects, or connect with me on LinkedIn to collaborate on innovative data science solutions.
 
-
-<!---
-DewduSendanayake/DewduSendanayake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's build the future with data! ✨
