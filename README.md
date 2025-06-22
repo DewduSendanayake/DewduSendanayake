@@ -61,7 +61,7 @@ Thanks for stopping by! Feel free to explore my repositories, check out my proje
 Let's build the future with data! ✨
 
 <p align="center">
-  <img src="RavenclawGirl.png" width="250" alt="Ravenclaw FTW" />
+  <img src="RavenclawGirl.png" width="180" alt="Ravenclaw FTW" />
 </p>
 
 
