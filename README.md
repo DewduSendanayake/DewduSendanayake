@@ -17,7 +17,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
   
 - Learning 🌱: Continuously upskilling in areas like cloud computing, data engineering, optimization methods, and ethical AI to stay ahead in a rapidly evolving tech landscape.
   
-- Ask me about 💬:  Python, R, SQL, Power BI, Tableau, Cloud (AWS/Azure), Jupyter Notebook, TensorFlow, Pandas, Matplotlib, NumPy, Keras, Scikit-Learn, Seaborn, Hive, Kafka, Flask, SSAS/ SSMS/ SSIS, Git/ GitHub, Excel, Java, JavaScript, C, C++, MERN Stack, Natural Language Processing, Hadoop, Spark, MySQL, PL/SQL, Data cleaning/preprocessing, Predictive modeling, ETL, Big Data Analysis, Oracle DB, SQL*Plus, SQLite, Data Structures & Algorithms, Data Visualization and Query Preprocessing
+- Ask me about 💬:  Python, R, SQL, Power BI, Tableau, Cloud (AWS/Azure), Jupyter Notebook, OpenCV, TensorFlow, Pandas, Matplotlib, NumPy, Keras, Scikit-Learn, Seaborn, Hive, Kafka, Flask, SSAS/ SSMS/ SSIS, Git/ GitHub, Excel, Java, JavaScript, C, C++, MERN Stack, Natural Language Processing, Computer Vision and Image Processing, Hadoop, Spark, MySQL, PL/SQL, Data cleaning/preprocessing, Predictive modeling, ETL, Big Data Analysis, Oracle DB, SQL*Plus, SQLite, Data Structures & Algorithms, Data Visualization and Query Preprocessing
   
 - Beyond Tech 🧙🏻‍♀️: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
