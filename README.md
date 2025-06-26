@@ -27,6 +27,8 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Handwritten Digit Recognition: Developed a MNIST pipeline (60 k train/10 k test), boosting accuracy from ~92% (logistic regression) to 99.2% (Convolutional Neural Network- CNN with augmentation & dropout), deployed via Flask.
   
 - Retail Insight 360: ETL to Analytics Pipeline and Power BI Reports: Engineered an SSIS-driven ETL data pipelines for 96K+ monthly records, ensured 99.9% accuracy with SCD 2, and delivered SSAS/Power BI solutions that sped query performance by 40%.
+
+- Privacy Censor Bot: Built a desktop app using OpenCV and Tkinter that ingests live webcam video (30 FPS, 640×480), detects faces with 96% accuracy, applies adjustable Gaussian blur (kernel sizes up to 201×201) in <0.05 s per frame, and outputs a real-time censored feed
   
 - Customer Churn Prediction: Built Streamlit web app using XGBoost (81.8% AUC) and Logistic Regression (84.0% AUC), with live inference, scaled inputs over a 7,000+ telecom customer churn dataset.
   
