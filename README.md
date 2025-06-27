@@ -31,6 +31,8 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Privacy Censor Bot: Built a desktop app using OpenCV and Tkinter that ingests live webcam video (30 FPS, 640×480), detects faces with 96% accuracy, applies adjustable Gaussian blur (kernel sizes up to 201×201) in <0.05 s per frame, and outputs a real-time censored feed.
   
 - Customer Churn Prediction: Built Streamlit web app using XGBoost (81.8% AUC) and Logistic Regression (84.0% AUC), with live inference, scaled inputs over a 7,000+ telecom customer churn dataset.
+
+- Netflix Insights Dashboard:  Engineered a Power Query ETL pipeline to clean and enrich 8000+ Netflix records and delivered a Power BI dashboard, cutting report prep time by 40% and boosting insight speed by 25%.
   
 - Titanic Exploratory Data Analysis: EDA using Python (pandas, seaborn, matplotlib) in Jupyter Notebook with 100% coverage.
   
