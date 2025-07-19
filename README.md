@@ -28,6 +28,8 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
   
 - Retail Insight 360: ETL to Analytics Pipeline and Power BI Reports: Engineered an SSIS-driven ETL data pipelines for 96K+ monthly records, ensured 99.9% accuracy with SCD 2, and delivered SSAS/Power BI solutions that sped query performance by 40%.
 
+-  Spotify Power BI Dashboard: Built an interactive Power BI dashboard using Python and HTML to analyze and visualize 1,000+ top-streamed Spotify songs (up to 2023), reducing manual analysis time by 60% and boosting engagement by 75% through visuals and custom-designed album artwork embeds.
+
 - Privacy Censor Bot: Built a desktop app using OpenCV and Tkinter that ingests live webcam video (30 FPS, 640×480), detects faces with 96% accuracy, applies adjustable Gaussian blur (kernel sizes up to 201×201) in <0.05 s per frame, and outputs a real-time censored feed.
 
 -  Video Games Sales Tableau Dashboard: Developed an interactive Tableau dashboard for video game sales, implementing dynamic regional and temporal parameters, layered line and area charts, top 10 visualizations, KPI summary tiles and published to Tableau Public, reducing analysis time by roughly 25%
