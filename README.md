@@ -23,6 +23,12 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  Experience and Contributions 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
+
+- Yummy-Crew: A Flask-based multi-agent system powered by CrewAI, combining food recommendations, vector search from S3, and conversational intelligence.
+
+- Semantic-Pet-Vision: A lightweight semantic image search engine for cats and dogs, built using Hugging Face image encoders and DocArray.
+
+- ChatMyPDF: Local PDF Chatbot which uses Retrieval-Augmented Generation (RAG), FAISS vector indexing, and a locally running Large Language Model (Mistral 7B via llama.cpp) and built with LangChain and Streamlit.
   
 - Handwritten Digit Recognition: Developed a MNIST pipeline (60 k train/10 k test), boosting accuracy from ~92% (logistic regression) to 99.2% (Convolutional Neural Network- CNN with augmentation & dropout), deployed via Flask.
   
