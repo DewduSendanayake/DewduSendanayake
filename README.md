@@ -13,7 +13,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 - Current Focus 🔭: Advancing my expertise in machine learning, big data systems, and AI-powered applications. Passionate about using data to drive innovation and create meaningful impact in real-world settings.
   
-- Education 🎓: 3rd year undergraduate consistently on the Dean's List, committed to academic excellence and lifelong learning.
+- Education 🎓: Final year undergraduate consistently on the Dean's List, committed to academic excellence and lifelong learning.
   
 - Learning 🌱: Continuously upskilling in areas like cloud computing, data engineering, optimization methods, and ethical AI to stay ahead in a rapidly evolving tech landscape.
   
