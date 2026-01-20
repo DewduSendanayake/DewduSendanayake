@@ -22,9 +22,26 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Beyond Tech 🧙🏻‍♀️: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  Experience and Contributions 
+- Multi Agentic AI System for Season-Aware Personalized Travel Recommendation: Designed and implemented a multi-agent AI recommendation system using graph-based orchestration and vector search to generate season-aware, personalized travel plans, dynamically reasoning over user constraints and Sri Lanka’s monsoon patterns through autonomous agent collaboration and human-in-the-loop inference.
+
 - AI-Powered Financial Analyzer & Invoice Scanner: Designed and implemented a data-driven receipt and invoice analysis system using OCR and supervised NLP models (SVM and Multinomial Naive Bayes) to classify transaction line items into expense categories, achieving high classification performance on labeled invoice data and significantly reducing manual expense entry time.
 
-- 
+- Musicbuff Recommendation Engine: Designed a hybrid recommendation system combining ALS based collaborative filtering and SBERT driven semantic retrieval with FAISS vector search, delivering real time personalized music event recommendations with under 50 ms latency while addressing cold start users and continuously improving ranking quality through interaction driven retraining pipelines.
+
+- In-Browser ML Inference Engine: Built a browser based NLP inference engine using TensorFlow.js and Universal Sentence Encoder to generate real time semantic embeddings entirely client side, designing a sandboxed architecture compliant with Chrome Manifest V3 security constraints to enable privacy preserving inference without external data transmission.
+
+- AI-Powered Quotation Automation System: Built an end to end AI driven quotation automation system using semantic search and multi agent inference that converts multi channel customer inquiries into structured PDF quotations, reducing quotation turnaround time by approximately 90 percent through FAISS based embedding retrieval and rule based pricing intelligence deployed on AWS.
+
+- Machine Learning Platform for Probabilistic Disease Risk Prediction: Built a production-ready disease risk prediction system using a LightGBM classifier on structured health data, applying domain-driven feature engineering, PCA-based dimensionality reduction, and cross-validated model tuning to deliver high ROC-AUC probabilistic risk estimates through a deployed REST API.
+
+- Emotion-Aware Conversational AI Interface with Adaptive UI Personalization: Developed an emotion-aware conversational AI web application using GPT-based language models and a context-managed dialogue engine, integrating adaptive UI personalization and persistent session modeling to enhance user engagement while securely managing authenticated multi-session interactions.
+
+- Content-Based Video Retrieval System Using Vision-Language Embeddings: Developed a content-based video similarity search pipeline using CLIP vision-language embeddings and FAISS vector indexing to enable semantic retrieval of unstructured video data, eliminating manual tagging and supporting sub-millisecond nearest-neighbor search at scale.
+
+- Denoising Diffusion Model for High-Resolution Image Generation: Implemented a denoising diffusion probabilistic model in PyTorch using a custom UNet with time embeddings and multi-head self-attention, training an end-to-end generative pipeline that reconstructs high-fidelity images from Gaussian noise through iterative denoising.
+
+- Scalable Multi-Tenant Retrieval-Augmented Generation Engine for Document Intelligence: Developed a cloud-native, multi-tenant RAG engine using FAISS vector indexing and LangChain pipelines to enable secure, context-aware document retrieval and LLM-based query responses, deploying serverless AWS architecture for scalable and cost-efficient inference.
+
 
 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
