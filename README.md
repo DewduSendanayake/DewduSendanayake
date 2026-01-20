@@ -22,7 +22,10 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Beyond Tech 🧙🏻‍♀️: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  Experience and Contributions 
--
+- AI-Powered Financial Analyzer & Invoice Scanner: Designed and implemented a data-driven receipt and invoice analysis system using OCR and supervised NLP models (SVM and Multinomial Naive Bayes) to classify transaction line items into expense categories, achieving high classification performance on labeled invoice data and significantly reducing manual expense entry time.
+
+- 
+
 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
 
