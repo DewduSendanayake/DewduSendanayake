@@ -50,7 +50,7 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
 
-- Yummy-Crew: A Flask-based multi-agent system powered by CrewAI, combining food recommendations, vector search from S3, and conversational intelligence.
+- Multi-Agent Conversational Food Recommendation System: Developed a multi-agent conversational AI system using CrewAI and FAISS-based vector retrieval to provide context-aware food recommendations, orchestrating specialized agents for intent detection, semantic search, and response generation within a cohesive Python backend.
 
 - Semantic Image Retrieval Engine for Pet Images: Developed a semantic image retrieval system using CLIP-based embeddings and DocArray, enabling natural language queries to retrieve visually and conceptually relevant pet images and demonstrating cross-modal representation learning for content-based search.
 
