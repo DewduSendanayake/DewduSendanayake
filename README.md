@@ -22,6 +22,8 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 - Beyond Tech 🧙🏻‍♀️: Psychology diploma holder and mental health advocate, space nerd with a soft spot for NASA, aesthetic content creator and proud advocate for women in STEM.
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  Experience and Contributions 
+-
+
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
 
 - Yummy-Crew: A Flask-based multi-agent system powered by CrewAI, combining food recommendations, vector search from S3, and conversational intelligence.
