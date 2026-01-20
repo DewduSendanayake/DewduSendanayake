@@ -42,6 +42,9 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 - Scalable Multi-Tenant Retrieval-Augmented Generation Engine for Document Intelligence: Developed a cloud-native, multi-tenant RAG engine using FAISS vector indexing and LangChain pipelines to enable secure, context-aware document retrieval and LLM-based query responses, deploying serverless AWS architecture for scalable and cost-efficient inference.
 
+- Hybrid Video Recommendation Engine for Personalized Social Media Content: Led the development of a hybrid social media video recommendation system combining Two-Tower embedding retrieval and DLRM ranking, implementing large-scale feature engineering with NVTabular and deploying a cloud-native AWS pipeline for real-time, personalized user engagement predictions.
+
+
 
 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
