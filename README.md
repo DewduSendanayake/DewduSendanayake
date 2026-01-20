@@ -44,16 +44,17 @@ Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT
 
 - Hybrid Video Recommendation Engine for Personalized Social Media Content: Led the development of a hybrid social media video recommendation system combining Two-Tower embedding retrieval and DLRM ranking, implementing large-scale feature engineering with NVTabular and deploying a cloud-native AWS pipeline for real-time, personalized user engagement predictions.
 
+- Multi-Label Transformer-Based Hate Speech Detection System: Developed a multi-label hate speech detection system by fine-tuning BERT on over 300,000 samples, implementing BCE-based multi-category classification and a reproducible data pipeline with DVC to achieve high recall across imbalanced toxic language categories.
 
-
+- AWS-Based Conversational AI Product Recommendation Engine: Developed a cloud-native conversational AI recommendation engine using multi-agent orchestration and FAISS/S3Vectors semantic search, implementing prompt-engineered intent classification and real-time embedding pipelines with production-ready AWS Lambda and EC2 infrastructure.
 
 - Web Platform for Understanding Earth's Systems: Built a React.js/ Flask platform with TensorFlow LSTM models on multisource NASA data, achieving 94% accuracy and a 91% scenario success with <250 ms real-time simulations.
 
 - Yummy-Crew: A Flask-based multi-agent system powered by CrewAI, combining food recommendations, vector search from S3, and conversational intelligence.
 
-- Semantic-Pet-Vision: A lightweight semantic image search engine for cats and dogs, built using Hugging Face image encoders and DocArray.
+- Semantic Image Retrieval Engine for Pet Images: Developed a semantic image retrieval system using CLIP-based embeddings and DocArray, enabling natural language queries to retrieve visually and conceptually relevant pet images and demonstrating cross-modal representation learning for content-based search.
 
-- ChatMyPDF: Local PDF Chatbot which uses Retrieval-Augmented Generation (RAG), FAISS vector indexing, and a locally running Large Language Model (Mistral 7B via llama.cpp) and built with LangChain and Streamlit.
+- PDF Chatbot with Retrieval-Augmented Generation and LLM Integration: Built a local PDF chatbot using FAISS-based retrieval and Mistral 7B LLM integration, implementing a full RAG pipeline to enable context-aware question answering and semantic summarization of documents without external API dependency.
   
 - Handwritten Digit Recognition: Developed a MNIST pipeline (60 k train/10 k test), boosting accuracy from ~92% (logistic regression) to 99.2% (Convolutional Neural Network- CNN with augmentation & dropout), deployed via Flask.
   
