@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.76. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
+Hi there! I'm Dewdu Sendanayake, a dedicated Data Science undergraduate at SLIIT with a CGPA of 3.74. I have a strong passion for AI/ML, big data, and transforming complex datasets into meaningful insights. Welcome to my GitHub profile!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
