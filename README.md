@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Data Science · Applied AI · Psychology &amp; Human-Centred Technology</strong>
+  <strong>Data Science · AI/ML · Psychology &amp; Human-Centred Technology</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://github.com/DewduSendanayake?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore_my_work-6654A3?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
-Hi there! I'm **Dewdu Sendanayake**, a **Data Science Intern at Pearson** and a final-year **B.Sc. (Hons) Information Technology undergraduate specializing in Data Science at SLIIT**.
+Hi there! I'm **Dewdu Sendanayake**, am **Associate AI Scientist at Pearson** and a final-year **Data Science undergraduate at SLIIT**.
 
 I enjoy connecting data, technology, and an understanding of people. My projects span applied machine learning, AI assistants, data engineering, and interactive applications—with a particular interest in making complex ideas useful and understandable.
 
@@ -23,7 +23,7 @@ I enjoy connecting data, technology, and an understanding of people. My projects
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" alt="Animated cat"> About Me
 
 - 💼 **Currently:** gaining industry experience in data science at Pearson while completing my degree.
-- 🎓 **Research:** contributed to a four-member final-year project on multimodal anxiety vulnerability mapping and escalation forecasting, with a focus on wearable physiological sensing and forecasting.
+- 🎓 **Research:** worked on the research project on multimodal anxiety vulnerability mapping and escalation forecasting, with a focus on wearable physiological sensing and forecasting.
 - 🧠 **Perspective:** a psychology diploma holder interested in human behaviour, mental health, and thoughtful technology.
 - 🌱 **Growing toward:** roles that connect technical teams, clear communication, project delivery, and people.
 - 🧙🏻‍♀️ **Beyond work:** space and NASA, aesthetic design, women in STEM, and a little Ravenclaw curiosity.
@@ -110,10 +110,7 @@ The wider project connects a custom chest strap, a mobile research app, and serv
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="26" alt="Animated cat" /> Let's Connect!
 
-I'm happy to connect over applied AI, data storytelling, research, and projects that bring technology closer to people's needs.
-
-- **LinkedIn:** [Dewdu Sendanayake](https://www.linkedin.com/in/dewdusendanayake/)
-- **Email:** [hdsendanayake01@gmail.com](mailto:hdsendanayake01@gmail.com)
+I'm happy to connect over projects that bring technology closer to people's needs.
 
 Thanks for stopping by. Explore a project, share an idea, or say hello! ✨
 
